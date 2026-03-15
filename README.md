@@ -18,6 +18,7 @@ greeneyes
 https://github.com/MichaelFehdrau0205/greeneyes-nye
 
 
+
 terponthego
 
 PROBLEM:
@@ -68,7 +69,9 @@ What I'm Proud Of-
 I'm proud that I built something that solves a real problem for my community — the Deaf community. This wasn't just a practice project. TERP on the Go represents a gap that actually exists, and I built a working solution for it. That means everything to me.
 
 
+
 airbnb.clone
+
 PROBLEM:
 Discovering local experiences while traveling can feel overwhelming — endless scrolling, generic recommendations, and no real personalization. Travelers want to find activities that actually match their interests, not just what's most popular. This Airbnb Experiences clone was built to solve that with an AI-guided discovery flow that makes finding the right experience feel effortless.
 
@@ -100,6 +103,8 @@ Making the AI dialog feel seamless within the browsing experience was the hardes
 What I'm Proud Of-
 The AI discovery feature sets this apart from a standard clone. Anyone can replicate a UI — I pushed further by asking how AI can make the experience genuinely better. That thinking is what I want to carry into every project I build.
 
+
+stockx
 
 PROBLEM:
 Buying and selling sneakers online is a high-stakes game — but most platforms give you flat photos and hope you trust them. For sneakerheads and collectors, the details matter: every angle, every crease, every colorway. This StockX clone was built to bring a more immersive, confident buying experience to the sneaker market.
@@ -137,6 +142,7 @@ Most clones stop at replicating the surface. I pushed further by adding a featur
 
 
 greeneyesnyc
+
 PROBLEM:
 NYC building owners are facing serious financial penalties under Local Law 97 — one of the most aggressive building emissions laws in the country — but most have no clear way to track, understand, or reduce their energy usage before fines hit. The problem isn't just technical, it's a lack of visibility and guidance at the right time. Green Eyes NYC was built to give building owners the clarity and tools they need to stay compliant and avoid costly penalties.
 
