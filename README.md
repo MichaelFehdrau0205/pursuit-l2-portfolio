@@ -8,17 +8,18 @@ terponthego
 https://github.com/MichaelFehdrau0205/terponthego
 
 airbnb.clone
-will paste soon
+https://github.com/MichaelFehdrau0205/airbnb.clone.frontend
 
 stockx
 https://github.com/MichaelFehdrau0205/stockx-clone.frontend
-revise the repo
+
 
 greeneyes
 https://github.com/MichaelFehdrau0205/greeneyes-nye
 
 
 terponthego
+
 PROBLEM:
 Deaf individuals often struggle to find qualified ASL interpreters quickly when they need one most — for medical appointments, job interviews, legal situations, and everyday life. For millions of Deaf Americans, this process is slow, fragmented, and unreliable. TERP on the Go was built to fix that — a real-time booking platform that connects Deaf users with nearby interpreters based on location, availability, and need.
 
