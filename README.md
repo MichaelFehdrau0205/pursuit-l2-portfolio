@@ -21,7 +21,7 @@ https://github.com/MichaelFehdrau0205/stockx-clone.frontend
 
 greeneyes
 https://github.com/MichaelFehdrau0205/greeneyes-nye
-![Description](images/reeneyenyc.png)
+![Description](images/greeneyenyc.png)
 
 
 
