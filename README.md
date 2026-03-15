@@ -6,16 +6,22 @@ A Deaf and proud developer. AI creator in the making. I'm a frontend developer g
 
 terponthego
 https://github.com/MichaelFehdrau0205/terponthego
+![Description](images/terponthego.png)
+
 
 airbnb.clone
 https://github.com/MichaelFehdrau0205/airbnb.clone.frontend
+![Description](images/airbnbCloneFE.png)
+
 
 stockx
 https://github.com/MichaelFehdrau0205/stockx-clone.frontend
+![Description](images/stockxFrontend.png)
 
 
 greeneyes
 https://github.com/MichaelFehdrau0205/greeneyes-nye
+![Description](images/reeneyenyc.png)
 
 
 
